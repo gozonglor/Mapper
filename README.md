@@ -17,3 +17,5 @@ hello nelson testing
 this test comes from nelsin the third time
 
 Trying to commit again from nelson
+
+the struggle is real -hmong her
