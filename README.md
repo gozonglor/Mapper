@@ -8,8 +8,6 @@ The Mapper project repository.
 [ 0 0 0 1 5 6 ] = represents a map
 and references the pallet identified by number/or/name (i.e. pallet 5 is drawn on the map at (3,0))
 
-Cody was here (on eclipse!)
+Cody was here (on eclipse!) :)
 
 Koko
-
-another one
